@@ -1,0 +1,23 @@
+.banner{
+ display:flex; 
+justify-content:space-around;
+font-size:20px;
+color:coral
+}
+.addScore1,.addScore4,.addScore6{
+  background-color:green;
+  margin-left:10px
+
+}
+.same{
+  background-color:green;
+    margin-left:10px
+    
+}
+.addWicket{
+  margin-top:20px
+  
+}
+.addBall{
+  margin-top:20px
+}
